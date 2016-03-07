@@ -9,8 +9,6 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.ListView;
 
-import com.example.kimschuiten.to_do_list.R;
-
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileInputStream;
