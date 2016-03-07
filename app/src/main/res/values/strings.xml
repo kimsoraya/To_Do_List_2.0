@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">To_Do_List_2.0</string>
+    <string name="addButton">Add Activity</string>
+    <string name="explanationTextView">Long-press the task when you\'ve finished it</string>
+    <string name="titleTextView">Your TO-DO list</string>
+    <string name="to_do_title">Look at all the things you have to do!</string>
+    <string name="create_list_button">Create TO-DO list</string>
+    <string name="go_back_button">Go Back to Lists</string>
+    <string name="title_edit_text">Title</string>
+    <string name="new_activity_EditText">New Activity</string>
+    <string name="save_list_button">Save List</string>
+</resources>
